@@ -41,7 +41,7 @@
 <div align="center">
   <img src="https://i.postimg.cc/26cQQBtL/roses.gif">
   <div align="center">
-    <img src="https://i.postimg.cc/52gMS4xC/medic-pagedoll.gif" width="300px">
+    <img src="https://i.postimg.cc/mDmtJDP4/MEDIC-PONY-SLEEP.gif" width="300px">
 </div>
 <h2 align="center"> <img src="https://i.postimg.cc/rmn11tHt/rose.gif"> </h2>
 </p>
